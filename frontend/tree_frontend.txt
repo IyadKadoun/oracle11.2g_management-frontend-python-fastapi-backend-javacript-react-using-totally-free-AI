@@ -1,0 +1,30 @@
+┣ 📂public
+┃ ┣ 📜favicon.ico
+┃ ┣ 📜index.html
+┃ ┣ 📜logo192.png
+┃ ┣ 📜logo512.png
+┃ ┣ 📜manifest.json
+┃ ┗ 📜robots.txt
+┣ 📂src
+┃ ┣ 📂components
+┃ ┃ ┣ 📜MainMenu.js
+┃ ┃ ┣ 📜MenuItem1.js
+┃ ┃ ┗ 📜MenuItem2.js
+┃ ┣ 📂services
+┃ ┣ 📂windows
+┃ ┃ ┣ 📜ClearanceTypeWindow.js
+┃ ┃ ┣ 📜CollectorWindow.js
+┃ ┃ ┗ 📜JabicenterWindow.js
+┃ ┣ 📜App.css
+┃ ┣ 📜App.js
+┃ ┣ 📜App.test.js
+┃ ┣ 📜axiosInstance.js
+┃ ┣ 📜index.css
+┃ ┣ 📜index.js
+┃ ┣ 📜logo.svg
+┃ ┣ 📜reportWebVitals.js
+┃ ┣ 📜setupTests.js
+┃ ┗ 📜styles.css
+┣ 📜.gitignore
+┣ 📜package.json
+┗ 📜README.md
