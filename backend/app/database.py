@@ -27,7 +27,7 @@ try:
     # اختبار اتصال raw (اختياري)
     with oracledb.connect(
         user="sbcm",
-        password="SbcMRkdjdvASAB",
+        password="your key",
         dsn="HASSAN:1521/reef"
     ) as conn:
         print("Raw connection success! Oracle version:", conn.version)
